@@ -95,3 +95,8 @@ yelp:
   name: "500px"
   baseURL: "https://500px.com/"
   icon: "fa-500px"
+
+bilibili:
+  name: "bilibili"
+  baseURL: "https://space.bilibili.com/"
+  icon: "fa-bold"
