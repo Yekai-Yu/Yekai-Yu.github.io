@@ -32,6 +32,7 @@ avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
+# Don't know what's the exact path syntax...but keep img in the /img folder can't be wrong
 title-img: "/img/signature.ico"
 
 # --- Background colour/image options --- #
